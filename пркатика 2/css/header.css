@@ -1,0 +1,44 @@
+.header{
+
+}
+
+.header-nav{
+
+}
+
+.hedar-logo{
+
+}
+
+.header-menu-list{
+    
+
+}
+
+.header-menu-item{
+  
+}
+
+.header-menu-link{
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    color:#1E0606;
+}
+
+.header-menu-link:hover,
+.header-menu-contact:hover {
+    color: #949090;
+}
+
+.header-menu-link:active,
+.header-menu-contact:active {
+    color: #d3caca;
+}
+
+.header-menu-contact {
+font-weight: bold;
+font-size: 14px;
+line-height: 19px;
+color:#1E0606;
+}

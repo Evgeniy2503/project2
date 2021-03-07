@@ -1,0 +1,18 @@
+@import "header.css";
+
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    background-color: #E5E5E5;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+a{
+    text-decoration: none;
+}
